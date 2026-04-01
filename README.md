@@ -137,7 +137,3 @@ https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
 This project demonstrates how customer reviews can be processed and analyzed using NLP techniques to extract valuable insights and support data-driven decision-making.
 
 ---
-
-## 👨‍💻 Author
-
-Your Name
